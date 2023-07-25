@@ -1,1 +1,1 @@
-# codesoftBlog-website
+# codsoft-blogging-platform
